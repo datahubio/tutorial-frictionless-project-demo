@@ -2,4 +2,4 @@ CBOE Volatility Index (VIX) time-series dataset including daily open, close, hig
 
 ## Daily chart
 
-<FrictionlessView  viewId={0} />
+<FrictionlessView  fullWidth viewId={0} />
